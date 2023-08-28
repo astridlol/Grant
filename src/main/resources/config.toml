@@ -1,0 +1,9 @@
+[ranks.vip]
+displayName = "VIP"
+displayItem = "minecraft:green_wool"
+durations = ["1h", "6h", "12h", "24h", "forever"]
+
+[ranks.moderator]
+displayName = "Moderator"
+displayItem = "minecraft:iron_axe"
+durations = ["forever"]

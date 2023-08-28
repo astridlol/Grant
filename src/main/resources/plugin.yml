@@ -1,0 +1,5 @@
+name: Grant
+version: '${project.version}'
+main: sh.astrid.grant.Grant
+api-version: '1.20'
+load: STARTUP

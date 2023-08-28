@@ -1,3 +1,6 @@
-example = [
-    "test"
+listRankLore = [
+    "<p>Click to grant <s><rank></s> to <s><player></s>"
+]
+durationLore = [
+    "<s>Grant <rank> for <duration>"
 ]

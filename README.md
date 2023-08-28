@@ -4,7 +4,7 @@ A simple plugin to easily grant ranks to players.
 
 ## Setup
 
-Grant is relatively simple to set up, and can right out of the box depending on your LuckPerms setup. But, let's go into detail about how to use it.
+Grant is relatively simple to set up, and can work right out of the box depending on your LuckPerms setup. But, let's go into detail about how to set it up further.
 
 ### Adding a rank
 

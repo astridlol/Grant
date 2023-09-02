@@ -23,7 +23,3 @@ The name after the dot (ranks.**vip**) is called a key, and this should be ident
 - Durations | A list of durations you would like this rank to have, a maximum of six is allowed. Supports hours (h), days (d), weeks (w) and months (m), as well as `forever`.
 
 After you've made your changes, you can reload the current configurations using `/grant reload`.
-
-## Downloading
-
-In order to download Grant, you can go to the Polymart page [here](https://polymart.org/resource/grant.4717) and purchase it for $2.50! This way you get updates immediately, and you support my work :) But, if you feel like being a meanie, you can always compile the source yourself.
